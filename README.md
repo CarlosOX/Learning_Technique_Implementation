@@ -1,9 +1,7 @@
 # Learning_Technique_Implementation
-Implementing a Learning Technique without using frameworks.
 
-For this proyect i created a linear regression technique using a dataset from kaggle where i didn't use frameworks such as tenserflow or scikit-learn. 
-I made use of POO paradigm, pandas and numpy library in order to program the algorithm from scratch. In addition, i used matplotlib to visualize 
-the results of the implementation. 
+Para este proyecto, creé una técnica de regresión lineal utilizando un conjunto de datos de Kaggle en el que no utilicé marcos de trabajo como TensorFlow o scikit-learn.
+Hice uso del paradigma de Programación Orientada a Objetos (POO), la biblioteca pandas y numpy para programar el algoritmo desde cero. Además, utilicé matplotlib para visualizar
+los resultados de la implementación.
 
-The dataset used to test the algorithm is meant to predict the relation between heigth and weight of olympic athletes.
-
+El conjunto de datos utilizado para probar el algoritmo tiene como objetivo predecir la relación entre la altura y el peso de los atletas olímpicos
