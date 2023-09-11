@@ -7,7 +7,7 @@ los resultados de la implementación.
 El conjunto de datos utilizado para probar el algoritmo tiene como objetivo predecir la relación entre la altura y el peso de los atletas olímpicos, con estos datos probaremos
 nuestra regresión lineal. 
 
-La explicación a detalle del modelo se encuentra en el archivo LinearRegression.py donde cada línea de código esta comentada para su entendimiento. En general la implementación
+#### La explicación a detalle del modelo se encuentra en el archivo LinearRegression.py donde cada línea de código esta comentada para su entendimiento. En general la implementación
 consta de la siguiente forma:
 
  ### Crear una Clase LinearRegression donde se reciban los hiperparámetros (learning rate, epochs, b)
